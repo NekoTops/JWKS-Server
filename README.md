@@ -10,4 +10,4 @@ Simple JWKS Server that:
 - Pyjwt version:  2.8.0
 ## Diretions
 1. Run main.py and the server will start
-2. Open your favorite browser and go to "http://locolhost:8080" to connect to the server
+2. Open your favorite browser and go to "http://localhost:8080" to connect to the server
