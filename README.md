@@ -1,4 +1,4 @@
-# JWST Server in python.
+# JWKS Server in python.
 ## Version
 - Project2
 ## Updates:
@@ -11,3 +11,5 @@
 ## Directions:
 - Open up your favorite browser
 - navigate to http://localhost:8080/ to access the server 
+## Citations:
+The JWKS Server and SQLite database code has been produced in part with ChatGPT
