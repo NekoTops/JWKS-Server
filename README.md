@@ -1,6 +1,8 @@
 # JWST Server in python.
 ## Version
 - Project2
+## Updates:
+- Added SQLite backend to store private keys for later retrieval 
 ## Known Bugs
 - GradeBot is not able to access/recognize expired keys. Further investigation required to figureout why not.
 ## Requirements:
